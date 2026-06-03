@@ -447,4 +447,8 @@ export const skills = [
     category: "Visualization & Web",
     items: ["Leaflet", "Plotly", "Power BI", "MapLibre"],
   },
+  {
+    category: "Genomics & Bioinformatics",
+    items: ["Tassel", "GAPIT", "MEGAX", "Python", "DL"],
+  },
 ];
