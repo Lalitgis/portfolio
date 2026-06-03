@@ -243,6 +243,22 @@ export const talks = [
 
 export const openSourceContributions = [
   {
+    title: "nepalboundaries",
+    description:
+      "Spatial dataset of Admninistrative Boundaries of Neapl. Comprehensive R package for advanced spatial data visualization.",
+    technologies: [
+      "R",
+      "Spatial Analysis",
+      "Nepal Admin",
+      "Geospatial",
+      "Visualization",
+    ],
+    stars: "Active",
+    downloads: "GitHub",
+    status: "Active",
+    link: "https://github.com/Lalitgis/nepalboundaries",
+  },
+  {
     title: "hovR",
     description:
       "Spatial & habitat visualization and analysis toolkit for ecological and geospatial data. Comprehensive R package for advanced spatial data visualization and habitat analysis.",
@@ -315,6 +331,22 @@ export const openSourceContributions = [
     downloads: "GitHub",
     status: "Active",
     link: "https://github.com/Lalitgis/ShinyLabelR",
+  },
+  {
+    title: "dronelytics",
+    description:
+      "Python-based package for the analysis of the orthomosaics data captured using the high resolutions UAV imagery.",
+    technologies: [
+      "Python",
+      "VI",
+      "Drone",
+      "Spatial Analysis",
+      "Crop Phenotyping",
+    ],
+    stars: "PyPI",
+    downloads: "PyPI",
+    status: "Active",
+    link: "https://pypi.org/project/dronelytics/",
   },
   {
     title: "pygapit",
