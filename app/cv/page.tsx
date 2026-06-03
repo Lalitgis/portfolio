@@ -21,8 +21,8 @@ export default function CVPage() {
               <h3 className="text-2xl font-bold text-gray-900 dark:text-gray-50 mb-2">Lalit BC</h3>
               <div className="flex flex-col md:flex-row justify-center items-center gap-4 text-gray-600 dark:text-gray-400">
                 <span>📧 lalitiaas@gmail.com</span>
-                <span>📍 Kirtipur, Kathmandu</span>
-                <span>📱 +9779868365688</span>
+                <span>📍 Fort Valley, Georgia, USA </span>
+                <span>📱 478-287-8252</span>
               </div>
             </div>
 
@@ -37,7 +37,7 @@ export default function CVPage() {
           {/* Quick Stats */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-12">
             <div className="text-center">
-              <div className="text-2xl font-bold text-blue-600 dark:text-blue-400 mb-1">4+</div>
+              <div className="text-2xl font-bold text-blue-600 dark:text-blue-400 mb-1">6+</div>
               <div className="text-sm text-gray-600 dark:text-gray-400">Years Experience</div>
             </div>
             <div className="text-center">
@@ -58,12 +58,12 @@ export default function CVPage() {
           <div className="mt-12 bg-gray-50 dark:bg-gray-900 rounded-lg p-8">
             <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-50 mb-4">Professional Summary</h2>
             <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-              Geospatial & Precision Agriculture Specialist with 4+ years of experience in developing scalable solutions
-              for agricultural challenges. Expertise in remote sensing, machine learning, and geospatial analysis with a
+              Geospatial & Precision Agriculture Specialist with 6+ years of experience in developing scalable solutions
+              for agricultural challenges. Expertise in UAV, Remote Sensing, Machine Learning, Crop Phenotyping and geospatial analysis with a
               proven track record of impacting farming communities through innovative technology solutions.
             </p>
             <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-              Co-founder of Map Mentors, dedicated to making geospatial knowledge accessible to practitioners in the
+              Co-founder of Map Mentors & AIR Lab Nepal dedicated to making geospatial knowledge accessible to practitioners in the
               agricultural sector. Passionate about open-source development and collaborative research initiatives.
             </p>
           </div>
@@ -80,16 +80,17 @@ export default function CVPage() {
                   <li>• Programming (Python, R, JavaScript)</li>
                   <li>• UAV & Photogrammetry (Pix4D, Agisoft, DJI Terra)</li>
                   <li>• Database & Cloud (PostgreSQL, Google Cloud, Docker)</li>
+                  <li>• Genomics & Bioinformatics (GWAS, QTL Mapping, DeepG)</li>
                 </ul>
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 dark:text-gray-50 mb-3">Domain Expertise</h3>
                 <ul className="text-gray-700 dark:text-gray-300 space-y-2 text-sm">
-                  <li>• Precision Agriculture</li>
-                  <li>• Crop Monitoring & Yield Estimation</li>
-                  <li>• Disease Detection & Management</li>
-                  <li>• Agricultural Insurance Technology</li>
-                  <li>• Soil Health Assessment</li>
+                  <li>• Precision Agriculture & Crop Phenotyping</li>
+                  <li>• Crop Monitoring & Yield Estimation with Satellite Imagery</li>
+                  <li>• Disease Detection & Management (GeoAI)</li>
+                  <li>• Digital Agricultural Insurance Technology in Nepal</li>
+                  <li>• Soil Health Mapping & Bioinformatics</li>
                 </ul>
               </div>
             </div>
