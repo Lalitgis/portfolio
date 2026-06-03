@@ -168,11 +168,11 @@ export default function Home() {
                       Interests
                     </h3>
                     <div className="text-gray-700 dark:text-gray-400 space-y-1">
-                      <div>• Precision Agriculture</div>
+                      <div>• Precision Agriculture & Crop Phenotyping</div>
                       <div>• Remote Sensing & GIS</div>
                       <div>• Machine Learning Applications</div>
                       <div>• UAV & Photogrammetry</div>
-                      <div>• Data Analytics</div>
+                      <div>• Data Analytics & Bioinformatics</div>
                       <div>• Rangeland and Pasture Management</div>
                       <div>• Computer Vision in Agriculture</div>
                     </div>
